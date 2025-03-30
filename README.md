@@ -1,2 +1,1 @@
-# brainstorming-app
-A Django app for brainstorming using InfraNodus and RapidAPI
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
